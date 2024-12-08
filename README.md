@@ -1,2 +1,2 @@
 # ETFit
-Matching ETFs to investors, based on characteristic profiles
+Clustering ETFs to be matched with investors, based on their characteristic profiles
